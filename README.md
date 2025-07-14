@@ -1,6 +1,6 @@
 # JetsonNano
 
-Test software with Jetson Nano baord Cuda programming and CSI-Camera
+Test software with Jetson Nano board Cuda programming and CSI-Camera
 
 ##hello : 
 
